@@ -16,7 +16,7 @@ A simple battery widget app display date, time, and battery percentage when plug
 </li>
 </ol>
 
-<h3>Download<h3>
+<h3>Download</h3>
 (Higher version is better)
 <ol>
 <li><strong>Version 1.0.0</strong><br/>
